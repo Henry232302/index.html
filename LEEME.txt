@@ -1,0 +1,9 @@
+GUÍA INTERACTIVA PARA HUÉSPEDES
+
+Abre index.html en un navegador para previsualizar. La guía usa imágenes/ junto a la página.
+
+Para compartirla por WhatsApp con botones interactivos, publica la carpeta completa en un hosting web estático (por ejemplo, Netlify o GitHub Pages) y comparte el enlace público que genere el servicio. WhatsApp no aloja páginas web: enviar el archivo HTML como documento conserva la página, pero algunos teléfonos pueden no permitir abrirlo; se recomienda compartir el enlace.
+
+Antes de publicar: confirma que la clave Wi‑Fi y el código del portallaves siguen vigentes. Los datos aparecen ocultos hasta tocar los botones, pero cualquier persona con el enlace puede acceder a ellos; envíalo solo al grupo de la reserva o elimina esas secciones si el enlace será público. Actualiza también el nombre del alojamiento, ubicación, horarios, teléfonos, indicaciones de llegada y URL de contacto cuando tengas esos datos.
+
+Las reglas se basan en las imágenes entregadas. En particular, la imagen menciona piscina y acceso de mascotas a piscina; confirma el alcance de esa regla con la propiedad.
